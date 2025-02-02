@@ -53,13 +53,9 @@ STRIPE_SECRET_KEY=your_stripe_key
 ```bash
 npm server.js
 ```
-## API Documentation
-
-Access interactive docs at http://localhost:3000/api-docs
-
-Swagger Preview
 
 ## Common Errors & Solutions
+
 ### 1. "Cannot GET /" Error
 
 ### Solution:
